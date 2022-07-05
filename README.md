@@ -31,6 +31,15 @@ Academics Notes for Electrical Engineering syllebus..
  - Declare a structure student that represents the following hierarchical information- id, name (First, Middle, Last), Gender, DOB (day, month, year), marks of 3 subjects (English, Mathematics, Computer Science). Write a C program to store and display the database of n students by using array of structure. Also write a program to search a particular student(based on id or name) from array and display his/her details.
  - Write a program on Insertion Sort using dynamic Memory allocation.
 ### 2nd Year
-- 
-
-
+- Write a program in C to calculate f (0.5) by Newton’s Forward Interpolation formula using the following data.
+- Write a program in C to calculate f (2.5) by Newton’s Backward Interpolation formula using the following data.
+- Write a program in C to find f (x) for x=0 by Lagrange’s Interpolation formula using the following data.
+- Write a program in C by applying Trapezoidal Rule to find the value of the following definite integral.
+- Write a program in C by applying Simpson’s 1/3 Rule to find the value of the following definite integral:
+- Write a program in C by applying Weddle’s Rule to find the value of the following definite integral.
+- Write a program in C by applying Regula-Falsi method to find the value of the following algebraic equation: X3 + 2x +1=0, correct the result up to 3 decimal places.
+- Write a program in C by applying Newton-Raphson method to find the value of the following algebraic equation:x3 + 2x +1=0, correct the result up to 3 decimal places.
+- Write a program in C by applying Euler’s method to find the solution of the following differential equation.
+- Write a program in C by applying R-K method of order 4 to find the solution of the following differential equation.
+- Write a program in C using Gauss-Seidel iterative method to solve the following system of linear equations.
+- Write a program in C using Gauss-Elimination method to solve the following system of linear equations
